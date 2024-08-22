@@ -10,6 +10,7 @@
 ### Week 3 demo
 
 [Week 3 demo on GCP](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea031938-c246-475a-b87c-b1a40029be04)
+
 [Week 3 demo on AWS](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b70e08d5-e90b-4dc7-8c02-b1a4002da551)
 
 ### Week 4 demo
